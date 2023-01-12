@@ -1,3 +1,15 @@
 body{
     font-size: 100%;
 }
+
+p,span{
+    font-size: 1.25rem;
+}
+
+#jp-yen,#us-dol{
+    font-size: 1.25rem;
+    padding: 5px;
+    border-radius: 3px;
+    text-align: right;
+    margin: 10px 0;
+}

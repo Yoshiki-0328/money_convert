@@ -1,0 +1,196 @@
+{
+  "quotes": [
+    {
+      "high": "2.0130",
+      "open": "2.0125",
+      "bid": "2.0071",
+      "currencyPairCode": "GBPNZD",
+      "ask": "2.0088",
+      "low": "2.0062"
+    },
+    {
+      "high": "103.90",
+      "open": "103.84",
+      "bid": "103.57",
+      "currencyPairCode": "CADJPY",
+      "ask": "103.62",
+      "low": "103.47"
+    },
+    {
+      "high": "1.9165",
+      "open": "1.9146",
+      "bid": "1.9115",
+      "currencyPairCode": "GBPAUD",
+      "ask": "1.9124",
+      "low": "1.9094"
+    },
+    {
+      "high": "97.95",
+      "open": "97.78",
+      "bid": "97.66",
+      "currencyPairCode": "AUDJPY",
+      "ask": "97.69",
+      "low": "97.55"
+    },
+    {
+      "high": "1.0518",
+      "open": "1.0506",
+      "bid": "1.0496",
+      "currencyPairCode": "AUDNZD",
+      "ask": "1.0506",
+      "low": "1.0482"
+    },
+    {
+      "high": "1.4162",
+      "open": "1.4139",
+      "bid": "1.4145",
+      "currencyPairCode": "EURCAD",
+      "ask": "1.4152",
+      "low": "1.4132"
+    },
+    {
+      "high": "1.2188",
+      "open": "1.2172",
+      "bid": "1.2177",
+      "currencyPairCode": "EURUSD",
+      "ask": "1.2178",
+      "low": "1.2169"
+    },
+    {
+      "high": "93.19",
+      "open": "93.00",
+      "bid": "92.98",
+      "currencyPairCode": "NZDJPY",
+      "ask": "93.04",
+      "low": "92.82"
+    },
+    {
+      "high": "1.1626",
+      "open": "1.1614",
+      "bid": "1.1614",
+      "currencyPairCode": "USDCAD",
+      "ask": "1.1620",
+      "low": "1.1606"
+    },
+    {
+      "high": "0.7849",
+      "open": "0.7841",
+      "bid": "0.7845",
+      "currencyPairCode": "EURGBP",
+      "ask": "0.7849",
+      "low": "0.7840"
+    },
+    {
+      "high": "1.5526",
+      "open": "1.5515",
+      "bid": "1.5516",
+      "currencyPairCode": "GBPUSD",
+      "ask": "1.5519",
+      "low": "1.5503"
+    },
+    {
+      "high": "10.296",
+      "open": "10.283",
+      "bid": "10.252",
+      "currencyPairCode": "ZARJPY",
+      "ask": "10.402",
+      "low": "10.247"
+    },
+    {
+      "high": "1.2026",
+      "open": "1.2021",
+      "bid": "1.2022",
+      "currencyPairCode": "EURCHF",
+      "ask": "1.2027",
+      "low": "1.2020"
+    },
+    {
+      "high": "122.22",
+      "open": "122.14",
+      "bid": "121.86",
+      "currencyPairCode": "CHFJPY",
+      "ask": "121.91",
+      "low": "121.74"
+    },
+    {
+      "high": "0.8123",
+      "open": "0.8103",
+      "bid": "0.8115",
+      "currencyPairCode": "AUDUSD",
+      "ask": "0.8117",
+      "low": "0.8083"
+    },
+    {
+      "high": "0.9880",
+      "open": "0.9876",
+      "bid": "0.9871",
+      "currencyPairCode": "USDCHF",
+      "ask": "0.9875",
+      "low": "0.9865"
+    },
+    {
+      "high": "146.99",
+      "open": "146.88",
+      "bid": "146.55",
+      "currencyPairCode": "EURJPY",
+      "ask": "146.57",
+      "low": "146.43"
+    },
+    {
+      "high": "1.5329",
+      "open": "1.5325",
+      "bid": "1.5317",
+      "currencyPairCode": "GBPCHF",
+      "ask": "1.5326",
+      "low": "1.5305"
+    },
+    {
+      "high": "1.5790",
+      "open": "1.5784",
+      "bid": "1.5752",
+      "currencyPairCode": "EURNZD",
+      "ask": "1.5764",
+      "low": "1.5746"
+    },
+    {
+      "high": "0.7729",
+      "open": "0.7706",
+      "bid": "0.7725",
+      "currencyPairCode": "NZDUSD",
+      "ask": "0.7731",
+      "low": "0.7702"
+    },
+    {
+      "high": "120.75",
+      "open": "120.67",
+      "bid": "120.35",
+      "currencyPairCode": "USDJPY",
+      "ask": "120.36",
+      "low": "120.27"
+    },
+    {
+      "high": "1.5032",
+      "open": "1.5014",
+      "bid": "1.5000",
+      "currencyPairCode": "EURAUD",
+      "ask": "1.5008",
+      "low": "1.4985"
+    },
+    {
+      "high": "0.8019",
+      "open": "0.8002",
+      "bid": "0.8010",
+      "currencyPairCode": "AUDCHF",
+      "ask": "0.8016",
+      "low": "0.7988"
+    },
+    {
+      "high": "187.37",
+      "open": "187.26",
+      "bid": "186.74",
+      "currencyPairCode": "GBPJPY",
+      "ask": "186.77",
+      "low": "186.61"
+    }
+  ]
+}
